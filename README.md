@@ -13,8 +13,6 @@ A modern web application that helps users create professional and attractive por
 ## Tech Stack
 
 - Frontend: HTML, CSS, JavaScript / React
-- Backend: Node.js / Express
-- Database: MongoDB
 - Styling: Tailwind CSS / Bootstrap
 
 ## Use Cases
@@ -30,7 +28,7 @@ This project is useful for:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/portfolio-generator.git
+git clone https://github.com/krit45/portfolio-generator.git
 ```
 
 2. Move into the project folder:
