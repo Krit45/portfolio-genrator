@@ -15,7 +15,7 @@ A modern web application that helps users create professional and attractive por
 - Frontend: HTML, CSS, JavaScript / React
 - Styling: Tailwind CSS / Bootstrap
 
-## Use Cases
+## Use Cases 
 
 This project is useful for:
 
